@@ -3,8 +3,6 @@
 
 ---
 
-<img src="https://api.boot.dev/v1/users/public/996a933d-12de-48da-ba8a-b60dab4ed749/thumbnail" alt="Profile Picture" width="200">
-
 I'm Gerhard Thirion, a Creative Generalist based in Centurion, South Africa. My background spans web design, photography, videography, and IT troubleshooting. I'm always seeking new challenges and opportunities for growth.
 
 **Find me on the web:**
@@ -44,6 +42,8 @@ My IT troubleshooting and problem-solving skills stem from experience in server 
 *   🌳 Completed Learn Git from Boot.Dev.
 *   🚀 Continuing my Boot.Dev learning path.
 *   🎮 Currently working on the Upskillist Game Development Certificate.
+
+<img src="https://api.boot.dev/v1/users/public/996a933d-12de-48da-ba8a-b60dab4ed749/thumbnail" alt="Profile Picture" width="400">
 
 ---
 
