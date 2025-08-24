@@ -34,16 +34,32 @@ My IT troubleshooting and problem-solving skills stem from experience in server 
 
 ---
 
-## Recent Achievements
+## Recent Achievements:
+* ✨ Completed my Diploma in Leadership Via Upskillist (Four Modules and Certificates).
 
-*   ✨ Completed Diploma in Leadership via Upskillist (Four Modules and Certificates).
-*   🐍 Completed Learn To Code in Python from Boot.Dev.
-*   🐧 Completed Learn Linux from Boot.Dev.
-*   🌳 Completed Learn Git from Boot.Dev.
-*   🚀 Continuing my Boot.Dev learning path.
-*   🎮 Currently working on the Upskillist Game Development Certificate.
+* 🐍 Completed Learn to Code in Python from Boot.Dev.
 
-<img src="https://api.boot.dev/v1/users/public/996a933d-12de-48da-ba8a-b60dab4ed749/thumbnail" alt="Profile Picture" width="400">
+* 🐧 Completed Learn Linux from Boot.Dev.
+
+* 🌳 Completed Learn Git from Boot.Dev.
+
+* 🧩 Completed Learn Object Oriented Programming in Python from Boot.Dev.
+
+* ⚙️ Completed Learn Functional Programming in Python from Boot.Dev.
+
+* ☄️ Completed Boot.Dev Guided Project: Build Asteroids using Python and Pygame.
+
+* 🤖 Completed Boot.Dev Guided Project: Build Bookbot in Python.
+
+* 🧠 Completed Boot.Dev Guided Project: Build an AI Agent in Python.
+
+* 📈 Continuing my Boot.Dev learning path.
+
+* 🎮 Currently working on the Upskillist Game Development Certificate.
+
+<p align="left">
+<img src="https://api.boot.dev/v1/users/public/996a933d-12de-48da-ba8a-b60dab4ed749/thumbnail" >
+</p>
 
 ---
 
