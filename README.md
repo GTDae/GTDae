@@ -7,6 +7,7 @@ I'm Gerhard Thirion, a Creative Generalist based in Centurion, South Africa. My 
 
 **Find me on the web:**
 
+*   [Website](https://gthd.co.za)
 *   [LinkedIn](https://www.linkedin.com/in/gerhard-thirion/)
 *   [Instagram](https://www.instagram.com/gerhard.thirion/)
 *   [Facebook](https://www.facebook.com/gerhard.thirion/)
@@ -65,7 +66,7 @@ My IT troubleshooting and problem-solving skills stem from experience in server 
 
 ## Contact
 
-Feel free to reach out if you're interested in collaborating or exploring growth opportunities! You can [email me](mailto:gerhard.thirion@gmail.com).
+Feel free to get in touch if you're interested in collaborating on a project or have a growth opportunity! You can reach me at gerhard@gthd.co.za.
 
 ___
 
